@@ -1,6 +1,6 @@
 Workshop Repository
 
-This repository contains various datasets and notebooks related to machine learning projects. Below is an overview of the contents.
+This repository contains various datasets and notebooks used in the ML Workshop. Below is an overview of the contents.
 Datasets
 1. Magic04 Data
 
