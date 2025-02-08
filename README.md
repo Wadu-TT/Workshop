@@ -1,6 +1,6 @@
 # Workshop Repository
 
-This repository contains various projects and datasets used for machine learning and data science workshops. Below is the detailed information about the datasets and the projects in this repository.
+This repository contains various projects and datasets used for ML Workshop by Randomize();. Below is the detailed information about the datasets and the projects in this repository.
 
 ## Datasets
 
