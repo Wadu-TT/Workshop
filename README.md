@@ -62,3 +62,4 @@ The Seoul Bike Sharing Demand dataset contains information about bike rental cou
 1. Clone the repository:
    ```bash
    git clone https://github.com/Wadu-TT/Workshop.git
+   run all cells of the notebook
